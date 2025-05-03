@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <div align="center">
  <h3>🛠️ <ins>Tools I</ins><sup><sup>Use</sup></sup></h3>
 </div>
+<div align="center">
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
