@@ -21,17 +21,19 @@ Here are some ideas to get you started:
 </div>
 
 
-<!-- #### <ins>*** <sup>My</sup> Skils***</ins> -->
-#### ⚙️<sup><sup>My</sup></sup> <ins>***Skills***</ins>
-<div>
+<div align="center">
+ <h3>⚙️<sup><sup>My</sup></sup> <ins>Skills</ins></h3>
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </div>
 
 
-#### 🛠️<ins>***Tools I***</ins> <sup><sup>Use</sup></sup>
-<div>
+<div align="center">
+ <h3>🛠️ <ins>Tools I</ins><sup><sup>Use</sup></sup></h3>
+</div>
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
