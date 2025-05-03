@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 ![Abdul Hafid](img/logo.png)
 
-![Abdul Hafid](img/giv.gif)
+<div align="center">
+  <img src="img/giv1.gif" alt="Abdul Hafid" width="200"/>
+</div>
+
+
