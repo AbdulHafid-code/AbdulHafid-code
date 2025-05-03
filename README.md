@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 
-#### <sup><sup>My</sup></sup> <ins>***Github Start***</ins>
+#### <sup><sup>My</sup></sup> <ins>***Github Stats***</ins>
 ![Abdul Hafid GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulHafid-code&show_icons=true&theme=great-gatsby&locale=id)
 
 ### 🔝 Top Contributed Repo
