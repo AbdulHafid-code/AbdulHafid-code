@@ -1,7 +1,7 @@
 ![Abdul Hafid](img/logo.png)
 
 <div align="center">
-  <img src="img/giv1.gif" alt="Abdul Hafid" width="100"/>
+  <img src="img/giv.gif" alt="Abdul Hafid" width="100"/>
 </div>
 
 
