@@ -1,6 +1,6 @@
 
 
-![Abdul Hafid](img/logo.png)
+![Abdul Hafid](img/log.png)
 
 <div align="center">
   <img src="img/giv.gif" alt="Abdul Hafid" width="100"/>
