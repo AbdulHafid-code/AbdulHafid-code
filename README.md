@@ -28,15 +28,18 @@
 
 
 #### <sup><sup>My</sup></sup> <ins>***Github Stats***</ins>
-![Abdul Hafid GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulHafid-code&show_icons=true&theme=great-gatsby&locale=id)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulHafid-code&show_icons=true&theme=great-gatsby&locale=id" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHafid-code&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=id" />
+</div>
+
+
+
 
 ### 🔝 Top Contributed Repo
 <div>
 
   ![Repository](https://github-contributor-stats.vercel.app/api?username=AbdulHafid-code&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&locale=id)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHafid-code&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=id)
-  
 </div>
 
 
