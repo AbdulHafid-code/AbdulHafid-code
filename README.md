@@ -37,9 +37,14 @@
 
 
 ### 🔝 Top Contributed Repo
-<div>
+<div style="display: flex; justify-content: center; gap: 10px;">
 
   ![Repository](https://github-contributor-stats.vercel.app/api?username=AbdulHafid-code&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&locale=id)
+
+
+  <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  </div>
 </div>
 
 
