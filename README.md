@@ -38,11 +38,11 @@
 
 ### 🔝 Top Contributed Repo
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <img src="https://github-contributor-stats.vercel.app/api?username=AbdulHafid-code&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&locale=id" alt="Top Repositories" />
 
-  <img height="350" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GitHub Giphy" />
+  <img height="320" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GitHub Giphy" />
 
 </div>
 
