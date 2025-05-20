@@ -42,7 +42,7 @@
 
   <img src="https://github-contributor-stats.vercel.app/api?username=AbdulHafid-code&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&locale=id" alt="Top Repositories" style="max-width: 48%;" />
 
-  <img height="320" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GitHub Giphy" style="max-width: 48%;" />
+  <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GitHub Giphy" style="max-width: 48%;" />
 
 </div>
 
