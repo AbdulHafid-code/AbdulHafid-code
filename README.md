@@ -1,3 +1,5 @@
+
+
 ![Abdul Hafid](img/logo.png)
 
 <div align="center">
@@ -42,11 +44,13 @@
 
 <img src="https://raw.githubusercontent.com/AbdulHafid-code/AbdulHafid-code/output/snake.svg" alt="Snake animation" />
 
- <picture>
+<img src="img/waves.svg" alt="wave animation" width="100%" />
+
+ <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulHafid-code/AbdulHafid-code/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulHafid-code/AbdulHafid-code/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdulHafid-code/AbdulHafid-code/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 
 

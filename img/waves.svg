@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 150px; transform:scale(1, -1) translate(0, -200);">
+    <defs>
+      <linearGradient id="wave1" gradientTransform="rotate(90)">
+        <stop offset="5%" stop-color="#4facfe"/>
+        <stop offset="95%" stop-color="#00f2fe"/>
+      </linearGradient>
+      <linearGradient id="wave2" gradientTransform="rotate(90)">
+        <stop offset="5%" stop-color="#00c6ff"/>
+        <stop offset="95%" stop-color="#0072ff"/>
+      </linearGradient>
+      <linearGradient id="wave3" gradientTransform="rotate(90)">
+        <stop offset="5%" stop-color="#2193b0"/>
+        <stop offset="95%" stop-color="#6dd5ed"/>
+      </linearGradient>
+    </defs>
+
+    <path fill="url(#wave1)" fill-opacity="0.6">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" values="
+        M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z;
+        M0,100 C300,0 900,200 1200,100 L1200,200 L0,200 Z;
+        M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z
+      " />
+    </path>
+
+    <path fill="url(#wave2)" fill-opacity="0.4">
+      <animate attributeName="d" dur="12s" repeatCount="indefinite" values="
+        M0,120 C400,220 800,20 1200,120 L1200,200 L0,200 Z;
+        M0,120 C400,20 800,220 1200,120 L1200,200 L0,200 Z;
+        M0,120 C400,220 800,20 1200,120 L1200,200 L0,200 Z
+      " />
+    </path>
+
+    <path fill="url(#wave3)" fill-opacity="0.3">
+      <animate attributeName="d" dur="14s" repeatCount="indefinite" values="
+        M0,130 C350,250 850,50 1200,130 L1200,200 L0,200 Z;
+        M0,130 C350,50 850,250 1200,130 L1200,200 L0,200 Z;
+        M0,130 C350,250 850,50 1200,130 L1200,200 L0,200 Z
+      " />
+    </path>
+  </svg>
